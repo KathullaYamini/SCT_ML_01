@@ -22,7 +22,7 @@ This project predicts house prices using machine learning based on features like
 
 The dataset** HousePrice.csv** includes house-related features and their corresponding prices. The data undergoes preprocessing before being used for training the model.
 
-** Methodology** 🚀
+**Methodology** 🚀
 
 1. **Data Preprocessing**: Cleaning and preparing the dataset.
 2. **Exploratory Data Analysis (EDA)**: Understanding relationships and patterns.
@@ -30,7 +30,7 @@ The dataset** HousePrice.csv** includes house-related features and their corresp
 4. **Evaluation**: Assessing model accuracy.
 5. **Deployment**: Model ready for predictions.
 
-** Usage **🚀
+**Usage**🚀
 
 Clone the repository:
 
