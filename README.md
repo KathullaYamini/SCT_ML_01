@@ -34,7 +34,8 @@ The dataset** HousePrice.csv** includes house-related features and their corresp
 
 Clone the repository:
 
-**Bash**
+**bash**
+
 git clone https://github.com/KathullaYamini/SCT_ML_01.git
 
 
